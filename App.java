@@ -1,9 +1,7 @@
-public class App 
+public class App1
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "Happy Monday" );
-        System.out.println( "Srinivasara.gunnabathula" );
+        System.out.println( "new Branch creation and merging" );
     }
 }
